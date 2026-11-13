@@ -1,3 +1,10 @@
 # shadui-chatbot-ui
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/curran/shadui-chatbot-ui)
+A simple chatbot UI built with React, Vite, Tailwind CSS and shadcn/ui.
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
